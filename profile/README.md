@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=200&section=header&text=Veyrix%20Technologies&fontSize=70&fontColor=000000&fontAlign=50" width="100%" alt="Veyrix Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=200&section=header&text=VEYRIX%20TECHNOLOGIES&fontSize=70&fontColor=000000&fontAlign=50" width="100%" alt="Veyrix Header" />
   
   <h3>Building the Digital Infrastructure for the Future.</h3>
   
